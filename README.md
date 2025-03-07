@@ -1,4 +1,4 @@
-# HKTED-Test
+# HKTED
 This is the implementation of the paper "Hierarchical Knowledge Transferability via Denoising Enhancement for Cross-Domain Sequential Recommendation".
 
 You can implement our model according to the following steps:
